@@ -3,6 +3,7 @@
 /* Magic Mirror
  * Module: NewsFeed
  *
+ * Derived from newsfeed module
  * By Michael Teeuw http://michaelteeuw.nl
  * MIT Licensed.
  */
